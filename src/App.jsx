@@ -1,4 +1,4 @@
- "import { useState, useMemo, useCallback } from "react";
+import { useState, useMemo, useCallback } from "react";
 import {
   BarChart3, Users, Package, ShieldCheck, QrCode, TrendingUp,
   Plus, Search, ChevronRight, ArrowLeft, Edit3, Trash2, Eye,
